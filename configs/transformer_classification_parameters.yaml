@@ -1,0 +1,6 @@
+attention_heads: 1
+n_parallel_ffd: 5
+dropout: 0.2
+L: 3
+cls : False
+pos : False

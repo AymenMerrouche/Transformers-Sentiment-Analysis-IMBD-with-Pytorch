@@ -1,0 +1,6 @@
+embedding_size : 100
+max_length : 500
+epochs : 50
+batch_size : 16
+lr : 0.01
+no_tensorboard : False
